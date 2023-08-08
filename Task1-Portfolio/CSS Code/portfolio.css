@@ -1,0 +1,181 @@
+.main{
+	height: 3500px;
+	weight: 1500px;
+	background-color:white ;
+}
+/*division 1*/
+.a{
+	height: 700px;
+	width: 1500px;
+	background-color: green;
+	background-image: url('../Images/laptop.jpg');
+	background-repeat: no-repeat;
+	background-size:1560px 700px;
+}
+.s1{
+	color: red;
+	font-size: 35px;
+	font-family: cursive;
+	margin-left: 25px;
+	margin:20px ;
+}
+.h1{
+	font-size: 85px;
+	color: white;
+	padding-top: 200px;
+	padding-left: 170px;
+	font-family:serif;
+	margin: 0;
+}
+.h2{
+	font-size: 45px;
+	color:white;
+	padding-top: 20px;
+	padding-left: 170px;
+	margin: 0;
+}
+
+/*division 2*/
+.b{
+	height: 700px;
+	width: 1500px;
+	background-color: green;
+	background-image: url('../Images/laptop2.jpg');
+	background-repeat: no-repeat;
+/*	background-size:1560px 700px;*/
+	background-size: cover;
+	position: relative;
+	
+}
+
+.b1{
+	height: 400px;
+	width: 270px;
+	background-color:whitesmoke;
+	position: absolute;
+	border-radius:10%;
+	top:150px;
+	left: 40px;
+}
+
+#pic{
+	height: 400px;
+	width: 270px;
+	border-radius:10%;
+}
+
+.h3{
+	font-size: 65px;
+	color:ghostwhite;
+	padding-top: 100px;
+	padding-left: 320px;
+	font-family:serif;
+	margin: 0;
+}
+.p1{
+	color:honeydew;
+	padding-left: 325px;
+	font-size: 20px;
+	margin-top: 10px;	
+}
+.h4{
+	font-size: 30px;
+	color:ghostwhite;
+	padding-left: 322px;
+	font-family:serif;
+	margin: 0;
+}
+.p2{
+	color:honeydew;
+	padding-left: 325px;
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+/*division 3*/
+
+.c{
+	height: 700px;
+	width: 1500px;
+	background-color: green;
+	background-image: url('../Images/laptop3.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+.h5{
+	font-size: 65px;
+	color:ghostwhite;
+	font-family:serif;
+	margin: 0;
+	padding-top: 20px;
+}
+
+.h6{
+	font-size: 25px;
+	color:honeydew;
+	font-family:serif;
+	padding-left: 900px;
+	margin: 0;
+}
+.h7{
+	color: 55px;
+	color:ghostwhite;
+	font-family:serif;
+	margin: 0;
+	padding-left: 800px;
+	padding-top: 30px;
+}
+.d{
+	height: 800px;
+	width: 1500px;
+	background-color: green;
+	background-image: url('../Images/laptop4.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+.h8{
+	font-size: 75px;
+	color:white;
+	font-family:serif;
+	margin: 0;
+	padding-top: 80px;
+}
+.h9{
+	font-size: 25px;
+	color:honeydew;
+	font-family:serif;
+	padding-left: 600px;
+	padding-top: 18px;
+	margin: 0;
+}
+
+/*division 5*/
+.e{
+	height: 800px;
+	width: 1500px;
+	background-color: green;
+	background-image: url('../Images/laptop5.jpg');
+	background-repeat: no-repeat;
+	background-size:1550px 800px;
+}
+.h10{
+	font-size: 65px;
+	color:honeydew;
+	font-family:serif;
+	margin: 0;
+	padding-left:130px ;
+	padding-top: 30px;
+}
+
+#i1{
+	margin-top: 50px;
+	margin-left: 400px;
+	font-size: 40px;
+}
+#s1{
+	margin: 20px;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-size: 50px;
+	color: orange;
+}
